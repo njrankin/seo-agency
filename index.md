@@ -1,4 +1,4 @@
-## Welcome to my GIthub pages version of NigelRankin.com
+## Welcome to my Github pages version of NigelRankin.com
 
 You can jump straight to the main site at https://nigelrankin.com if you wish.
 
