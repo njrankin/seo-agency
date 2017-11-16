@@ -1,6 +1,6 @@
 ## Welcome to my Github pages version of NigelRankin.com
 
-You can jump straight to the main site at [https://nigelrankin.com] https://nigelrankin.com if you wish.
+You can jump straight to the main site at [nigelrankin.com](https://nigelrankin.com) if you wish.
 You can use the [editor on GitHub](https://github.com/njrankin/seo-agency/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 My intent here is to use Github's fast hosting platform to create a super light version of my site.
 
