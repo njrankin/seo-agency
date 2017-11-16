@@ -2,7 +2,7 @@
 
 You can jump straight to the main site at [nigelrankin.com](https://nigelrankin.com) if you wish.
 
-My intent here is to use Github's fast hosting platform to create a super light version of my site.
+My intent here is to use Github's fast hosting platform to create a super light version of my site, all at the same time as learning a new platform, especially one that uses flat files and no databases!
 
 ## Discovery Form
 
